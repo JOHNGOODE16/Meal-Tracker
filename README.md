@@ -17,7 +17,7 @@ Gson: 2.10.1 \
 ### Functional:
 -Daily tracker to track macros; to include fats, carbs, protein, sodium and potassium.\
 -Database to store that information foods based on serving size.\
--Graphical User Interface (GUI)
+-Graphical User Interface (GUI)\
 -Add/remove foods from database\
 -Add/remove foods for daily tracker\
 -Output the daily intake
