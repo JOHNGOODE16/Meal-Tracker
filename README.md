@@ -8,8 +8,8 @@ The goal of this project is to provide the user with a GUI that allows for food 
 Java 21\
 Gradle 8.5\
 Java FX 23\
-SQLite JDBC: 3.44.1.0
-Gson: 2.10.1 \
+SQLite JDBC: 3.44.1.0\
+Gson: 2.10.1 
 
 
 ## Requirements:
