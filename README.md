@@ -25,4 +25,4 @@ Gson: 2.10.1
 
 ### Non-functional:
 -Allow the user to recieve data from foods based of a gram input instead of fixed serving sizes.\
--Add full nutritional facts (mircos: vitamin A, B, etc......\
+-Add full nutritional facts (mircos: vitamin A, B, etc......
