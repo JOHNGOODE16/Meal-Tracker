@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package com.example.MacroTracker;
 
 /**
@@ -57,6 +54,6 @@ public class Food {
     
     @Override
     public String toString(){
-        return name + ":" + "\nFats:" + fat + "\nCarbs: " + carbs +  "\nProtein: " + protein + "\nSodium: " + sodium + "\nPotassium: " + potassium;
+        return name + ":" + "\nFats: " + fat + "g\nCarbs: " + carbs +  "g\nProtein: " + protein + "g\nSodium: " + sodium + "mg\nPotassium: " + potassium +"mg";
     }
 }
